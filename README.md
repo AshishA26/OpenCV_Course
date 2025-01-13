@@ -1,6 +1,11 @@
 # OpenCV_Course
 Code from following along this [OpenCV Course](https://www.youtube.com/watch?v=oXlwWbU8l2o).
 
+Note: Before using the `17_simpsons_tensorflow.ipynb` or `17_simpsons_keras2.ipynb`:
+- download the simpsons dataset from Kaggle https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset
+- unzip it to a folder named `simpsons_data` in the cloned version of this repo
+- Ensure the dataset folder path is as such `./simpsons_data/simpsons_dataset/`
+
 ## Packages
 
 Packages Needed:
